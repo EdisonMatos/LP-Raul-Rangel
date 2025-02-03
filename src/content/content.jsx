@@ -93,7 +93,7 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADO EM MATINHOS - PR",
+      miniTag: "ADVOGADO DESDE 1996",
       title: (
         <h1 className="mb-[16px]">
           Experiência
@@ -383,10 +383,10 @@ const content = {
         img: aboutImg1,
         alt: "Imagem profissional de escritório/advogado(a)",
       },
-      miniTag: "QUE É O DR RAUL RANGEL",
+      miniTag: "QUEM É O DR RAUL RANGEL",
       title: "Minha trajetória",
       subtitle:
-        "Com 25 anos de experiência, Raul Rangel é referência em diversas áreas do Direito.",
+        "Com 28 anos de experiência,  Dr. Raul Rangel é referência em diversas áreas do Direito.",
       paragraph: (
         <div>
           Com uma trajetória consolidada desde 1996, Raul de Cassius M. B.
