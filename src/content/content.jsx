@@ -61,8 +61,8 @@ export const infos = {
   expediente: (
     <div>
       <p>Horário de expediente:</p>
-      <p>A_Definir</p>
-      <p>A_Definir</p>
+      <p>Segunda a Sexta-feira</p>
+      <p>Das 8h às 18h</p>
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
@@ -96,12 +96,13 @@ const content = {
       miniTag: "ADVOGADO EM MATINHOS - PR",
       title: (
         <h1 className="mb-[16px]">
-          A_Definir
-          <span className="text-primary"> A_Definir</span>
+          Experiência
+          <span className="text-primary"> comprovada </span> em defesa de
+          direitos
         </h1>
       ),
       subtitle:
-        "Quase 3 décadas de experiência oferecendo soluções jurídicas eficazes e personalizadas para você.",
+        "Há quase 3 décadas oferecendo soluções jurídicas eficazes e personalizadas para você.",
       heroImg: heroImg,
       ctaButtonText: "Entre em contato",
       obsHero: {
