@@ -389,7 +389,7 @@ const content = {
         "Com 28 anos de experiência,  Dr. Raul Rangel é referência em diversas áreas do Direito.",
       paragraph: (
         <div>
-          Com uma trajetória consolidada desde 1996, Raul de Cassius M. B.
+          Com uma trajetória consolidada desde 1996, Dr Raul de Cassius M. B.
           Rangel (OAB/PR 23.915) construiu uma carreira jurídica pautada na
           excelência, ética e compromisso com a justiça.
           <br />
