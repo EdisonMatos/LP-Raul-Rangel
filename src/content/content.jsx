@@ -384,7 +384,7 @@ const content = {
         alt: "Imagem profissional de escritório/advogado(a)",
       },
       miniTag: "QUEM É O DR RAUL RANGEL",
-      title: "Minha trajetória",
+      title: "Sua trajetória",
       subtitle:
         "Com 28 anos de experiência,  Dr. Raul Rangel é referência em diversas áreas do Direito.",
       paragraph: (
@@ -401,7 +401,7 @@ const content = {
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          Com uma trajetória consolidada desde 1996, Raul de Cassius M. B.
+          Com uma trajetória consolidada desde 1996, Dr Raul de Cassius M. B.
           Rangel (OAB/PR 23.915) construiu uma carreira jurídica pautada na
           excelência, ética e compromisso com a justiça.
           <br />
@@ -412,8 +412,10 @@ const content = {
           <br />
           <br />
           Ao longo de sua carreira, atuou junto à Procuradoria Jurídica do
-          Departamento de Estradas de Rodagem do Estado do Paraná (DER/PR),
-          prestando assessoria ao Governo do Estado e participando de demandas
+          Departamento de Estradas de Rodagem do Estado do Paraná (DER/PR) com o
+          Governador Jaime Lerner e junto à Secretaria de Justiça, Família e
+          Trabalho com o Governador Carlos Massa Ratinho Júnior, prestando
+          assessoria ao Governo do Estado e participando de demandas
           estratégicas nas áreas administrativa e de infraestrutura.
           <br />
           <br />
@@ -424,13 +426,13 @@ const content = {
           <br />
           Sua experiência inclui assessoria, coordenação política e defesa de
           figuras públicas e políticas renomadas, como Jaime Lerner
-          (ex-governador do Paraná), Cleiton Kielse (ex-deputado estadual), Ney
-          Leprevost (deputado estadual) e Jocelito Canto (ex-deputado estadual e
-          ex-prefeito de Ponta Grossa), além de atendimento jurídico a diversas
+          (ex-Governador do Paraná), Cleiton Kielse (ex-Deputado Estadual), Ney
+          Leprevost (Deputado Estadual) e Jocelito Canto (ex-Deputado Estadual e
+          ex-Prefeito de Ponta Grossa), além de atendimento jurídico a diversas
           empresas e instituições.
           <br />
           <br />
-          Com mais de 25 anos de atuação, seu escritório se destaca pela
+          Com mais de 28 anos de atuação, seu escritório se destaca pela
           condução de casos de alta complexidade e repercussão, sempre com uma
           abordagem estratégica e soluções jurídicas eficazes para seus
           clientes.

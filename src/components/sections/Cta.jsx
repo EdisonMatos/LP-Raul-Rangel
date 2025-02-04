@@ -11,7 +11,7 @@ const whatsappContactLink = `${content.texts.links.ctaWhatsapp}`;
 export default function Cta() {
   return (
     <div>
-      <SectionArea className="squares">
+      <SectionArea className="">
         <SectionShapeDiv
           shapeDivArrow={false}
           paddingbot={false}

@@ -17,11 +17,18 @@ import Features6cards from "./Features6cards";
 import FeaturesParagraphs from "./FeaturesParagraphs";
 import FeaturesButton from "./FeaturesButton";
 
-export default function Features({ modal, defaultFeature, modalWithCards, sixCards, paragraphs, button }) {
+export default function Features({
+  modal,
+  defaultFeature,
+  modalWithCards,
+  sixCards,
+  paragraphs,
+  button,
+}) {
   return (
     <div>
       {defaultFeature && (
-        <SectionArea id="service" className="squares">
+        <SectionArea id="service" className="">
           <SectionShapeDiv
             shapeDivArrow={false}
             shapeColor="text-bgSectionDark"
@@ -96,7 +103,6 @@ export default function Features({ modal, defaultFeature, modalWithCards, sixCar
       {sixCards && <Features6cards />}
       {paragraphs && <FeaturesParagraphs />}
       {button && <FeaturesButton />}
-
     </div>
   );
 }
