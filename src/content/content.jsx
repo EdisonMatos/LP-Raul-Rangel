@@ -151,7 +151,7 @@ const content = {
     },
     features: {
       miniTag: "ÁREAS DE ATUAÇÃO",
-      title: "Segurança jurídica em diversas ramos",
+      title: "Segurança jurídica em diversos ramos",
       subtitle:
         "Conheça os serviços jurídicos que oferecemos com excelência e dedicação.",
       imgFeatures: imgFeatures,
